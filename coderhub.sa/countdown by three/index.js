@@ -18,5 +18,3 @@ function countdown(num) {
     return even.reverse();
   }
 }
-
-console.log(countdown(103));

@@ -20,5 +20,3 @@ function first_n_vowels(phrase, n) {
     return result.join("");
   }
 }
-
-console.log(first_n_vowels('aAe', 2));

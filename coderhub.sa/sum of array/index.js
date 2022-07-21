@@ -9,5 +9,3 @@ function calculate_sum(lst) {
   }
   return result;
 }
-
-console.log(calculate_sum([84,469]));

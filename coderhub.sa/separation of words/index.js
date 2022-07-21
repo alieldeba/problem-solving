@@ -11,5 +11,3 @@ function cap_space(txt) {
   }
   return result.join("");
 }
-
-console.log(cap_space("wePlayTennis"));

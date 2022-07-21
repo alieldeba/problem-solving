@@ -6,5 +6,3 @@ function find_prefix(words, text) {
   if (result.length === 0) result.push("No matches found");
   return result;
 }
-
-console.log(find_prefix(["Reassemble", "Remainder", "Room", "Receive"], "re"));

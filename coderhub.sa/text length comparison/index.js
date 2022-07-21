@@ -10,5 +10,3 @@ function str_len_comparison(words) {
   }
   return true;
 }
-
-console.log(str_len_comparison([]));

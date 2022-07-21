@@ -5,5 +5,3 @@ function namesSort(namesArray, order) {
     return namesArray.sort().reverse();
   }
 }
-
-console.log(namesSort(["Ahmed Omar", "Yousef Abdullah"], "ASC"));

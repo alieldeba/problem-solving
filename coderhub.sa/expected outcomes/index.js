@@ -14,5 +14,3 @@ function unique(arr) {
   }
   return uniqueNumbers;
 }
-
-console.log(unique([2, 3, 2, 6, 2]));
