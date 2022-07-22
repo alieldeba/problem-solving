@@ -10,7 +10,7 @@
 ### - Programming Langauges
 
 - (15) Javascript
-- (0) Python
+- (1) Python
 
 ### - Instructions
 
