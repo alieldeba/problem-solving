@@ -3,14 +3,21 @@
 ### - Websites
 
 - (14) coderhub.sa
-- (1) leetcode.com
+- (2) leetcode.com
 - (0) codewars.com
 - (0) hackerrank.com
 
 ### - Programming Langauges
 
-- (15) Javascript
-- (1) Python
+- (16) Javascript
+- (2) Python
+
+### - States
+
+- (4) Websites
+- (2) Langauges
+- (16) Solved Problems
+- (18) Solved Problems in all languages
 
 ### - Instructions
 
